@@ -1,0 +1,19 @@
+.slider h3,
+.slider h5,.clients{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.parallax-container{
+	height: 38%;
+}
+.parallax img{
+	filter: grayscale(1);
+	opacity: 0.8 !important;
+}
+.clients img{
+	max-width: 140px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+.clients-7 img{
+	max-width: 220px;
+}
